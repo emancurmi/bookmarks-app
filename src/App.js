@@ -68,7 +68,6 @@ class App extends Component {
   }
 
     render() {
-        const { bookmark } = this.state
         return (
             <main className='App'>
                 <h1>Bookmarks!</h1>
