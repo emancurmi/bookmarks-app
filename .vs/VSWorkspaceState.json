@@ -1,14 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\public",
     "\\src",
     "\\src\\AddBookmark",
     "\\src\\BookmarkItem",
     "\\src\\BookmarkList",
+    "\\src\\EditBookmark",
     "\\src\\Nav",
     "\\src\\Rating"
   ],
-  "SelectedNode": "\\src\\BookmarkList\\BookmarkList.js",
   "PreviewInSolutionExplorer": false
 }
